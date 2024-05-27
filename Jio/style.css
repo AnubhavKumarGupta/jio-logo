@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+
+html,body{
+    background: white;
+}
+
+.jio {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 70%;
+  top: 50%;
+  left:45%;
+  color: white;
+  position: absolute;
+}
+
+.ji{
+  position: absolute;
+  top: 35%;
+  left:40%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
